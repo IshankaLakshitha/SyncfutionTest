@@ -101,15 +101,13 @@ using SyncfutionTest.Shared;
             __builder.OpenElement(12, "div");
             __builder.AddAttribute(13, "class", "content px-4");
             __builder.AddAttribute(14, "b-g7nu7mbfcf");
-            __builder.AddContent(15, 
 #nullable restore
 #line 14 "C:\Work\SyncfutionTest\SyncfutionTest\Shared\MainLayout.razor"
-             Body
+__builder.AddContent(15, Body);
 
 #line default
 #line hidden
 #nullable disable
-            );
             __builder.CloseElement();
             __builder.CloseElement();
             __builder.CloseElement();
